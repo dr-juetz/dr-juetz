@@ -2,7 +2,79 @@ theme: jekyll-theme-minimal
 title: dr-juetz's homepage
 description: Bookmark this to keep an eye on my project updates!
 
-def fibonacci(n)
-  return n if ( 0..1 ).include? n
-  (fibonacci(n - 1) + fibonacci(n - 2)) #recursive calls
-end
+### dr-juetz's homepage
+
+Welcome to the homepage of Dr. med. Martin Jütz. Bookmark this page to keep an eye on my project updates and medical insights.
+
+---
+
+#### About Me
+
+I am Dr. med. Martin Jütz, a physician in training dedicated to providing the best possible care to my patients. Our practice is located in Schönhauser Allee 163, Berlin. We offer a wide range of medical services in a friendly and professional environment.
+
+---
+
+#### Services
+
+Our practice provides a comprehensive range of medical services, including:
+
+- General medical consultations and treatment
+- Preventive examinations
+- Vaccinations
+- Wound care
+- Health check-ups
+- Lifestyle and nutrition counseling
+
+---
+
+#### Office Hours
+
+Our office hours are as follows:
+
+- Monday: 08:00 - 12:00 and 14:00 - 18:00
+- Tuesday: 08:00 - 12:00
+- Wednesday: 08:00 - 12:00 and 14:00 - 18:00
+- Thursday: 08:00 - 12:00
+- Friday: 08:00 - 12:00
+
+Please make an appointment by phone or email.
+
+---
+
+#### Contact
+
+**Address:**  
+Schönhauser Allee 163  
+10435 Berlin
+
+**Phone:**  
+0179 2631965
+
+**Email:**  
+info@dr-juetz-praxis.de
+
+---
+
+#### Directions
+
+Our practice is easily accessible by public transport. The Schönhauser Allee U-Bahn station (U2) and various tram and bus lines are in close proximity.
+
+---
+
+#### Patient Information
+
+Please bring the following documents to your appointment:
+
+- Health insurance card
+- Previous medical records (if available)
+- List of current medications
+
+---
+
+We look forward to welcoming you to our practice and assisting with your healthcare needs.
+
+---
+
+**Dr. med. Martin Jütz - Arzt in Weiterbildung**  
+Schönhauser Allee 163, 10435 Berlin  
+Tel.: 0179 2631965
